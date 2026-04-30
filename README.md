@@ -1,3 +1,8 @@
+## Nama: [Fajar Istiqomah]
+## Email: [cdcc290d6x2058@student.devacademy.id]
+## ID Peserta Coding Camp	[CDCC290D6X2058]
+## Link Repository: https://github.com/FajarIstiqomah1315/submission-pemda/tree/master 
+
 # 🛍️ ETL Pipeline - Fashion Studio Scraping Project
 
 Project ini adalah implementasi ETL (Extract, Transform, Load) untuk mengambil data produk fashion dari website, membersihkan data, lalu menyimpannya ke dalam file CSV.
